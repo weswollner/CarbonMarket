@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1658351994259.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1658452883621.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-30032e99-4b25-47c3-b0b8-c3a55f03701b" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Projects View" width="1280" height="803">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/30032e99-4b25-47c3-b0b8-c3a55f03701b-1658351994259.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/30032e99-4b25-47c3-b0b8-c3a55f03701b-1658452883621.css" />\
       <div class="freeLayout">\
       <div id="s-Group_9" class="group firer ie-background commentable non-processed" customid="Group 9" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Image_5" class="image firer ie-background commentable non-processed" customid="Image 1"   datasizewidth="1280.7px" datasizeheight="109.8px" dataX="0.0" dataY="-0.0"   alt="image">\
@@ -56,21 +56,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             	  </g>\
             	</svg>\
 \
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_3" class="button multiline manualfit firer commentable non-processed" customid="Menu_Button"   datasizewidth="99.0px" datasizeheight="42.0px" dataX="1017.0" dataY="36.6" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_3_0">Sign In</span>\
-                </div>\
-              </div>\
             </div>\
           </div>\
         </div>\
@@ -1333,7 +1318,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="s-Hotspot_1" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 1"   datasizewidth="404.0px" datasizeheight="75.0px" dataX="26.0" dataY="24.0"  >\
         <div class="clickableSpot"></div>\
       </div>\
-      <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="111.0px" datasizeheight="25.0px" dataX="614.0" dataY="43.5" >\
+      <div id="s-Paragraph_1" class="richtext manualfit firer click ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="111.0px" datasizeheight="25.0px" dataX="614.0" dataY="43.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1348,7 +1333,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 2"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="734.5" dataY="44.5" >\
+      <div id="s-Paragraph_2" class="richtext manualfit firer click ie-background commentable non-processed" customid="Menu_Option 2"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="726.0" dataY="44.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1363,7 +1348,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_4" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="843.0" dataY="44.5" >\
+      <div id="s-Paragraph_4" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="826.0" dataY="44.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1378,10 +1363,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Hotspot_2" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 2"   datasizewidth="78.0px" datasizeheight="28.0px" dataX="723.0" dataY="40.0"  >\
-        <div class="clickableSpot"></div>\
-      </div>\
-      <div id="s-Paragraph_11" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="926.0" dataY="44.0" >\
+      <div id="s-Paragraph_11" class="richtext manualfit firer click ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="926.0" dataY="44.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1396,8 +1378,20 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Hotspot_3" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 3"   datasizewidth="81.0px" datasizeheight="28.0px" dataX="919.0" dataY="39.0"  >\
-        <div class="clickableSpot"></div>\
+      <div id="s-Button_1" class="button multiline manualfit firer commentable non-processed" customid="Menu_Button"   datasizewidth="99.0px" datasizeheight="42.0px" dataX="1075.0" dataY="34.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Button_1_0">Sign In</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
       </div>\
       </div>\
 \

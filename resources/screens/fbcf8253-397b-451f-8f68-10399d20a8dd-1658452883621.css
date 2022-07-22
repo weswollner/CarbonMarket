@@ -3156,18 +3156,6 @@
   font-style: normal;
   font-weight: 300;
 }
-#s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Image_1 {
-  position: absolute;
-  width: 116.79215954425837px;
-  height: 97.2864158344488px;
-  -webkit-transform: rotate(0.0deg);
-  -moz-transform: rotate(0.0deg);
-  transform: rotate(0.0deg);
-  border-left-width: 0px;
-  border-bottom-width: 0px;
-  border-right-width: 0px;
-  border-top-width: 0px;
-}
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Image_11 {
   position: absolute;
   width: 20.065468617253117px;
@@ -3253,6 +3241,7 @@
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
+  cursor: pointer;
   border-left-width: 0px;
   border-bottom-width: 0px;
   border-right-width: 0px;
@@ -3268,11 +3257,11 @@
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_7 .valign {
   vertical-align: top;
-  text-align: left;
+  text-align: center;
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_7 span {
   color: #000000;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   font-family: 'Arial',Arial;
   font-size: 12.0pt;
@@ -3294,6 +3283,7 @@
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
+  cursor: pointer;
   border-left-width: 0px;
   border-bottom-width: 0px;
   border-right-width: 0px;
@@ -3309,11 +3299,11 @@
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_8 .valign {
   vertical-align: top;
-  text-align: left;
+  text-align: center;
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_8 span {
   color: #000000;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   font-family: 'Arial',Arial;
   font-size: 12.0pt;
@@ -3350,11 +3340,11 @@
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_9 .valign {
   vertical-align: top;
-  text-align: left;
+  text-align: center;
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_9 span {
   color: #000000;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   font-family: 'Arial',Arial;
   font-size: 12.0pt;
@@ -3369,15 +3359,6 @@
   font-style: normal;
   font-weight: 400;
 }
-#s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Hotspot_2 {
-  position: absolute;
-  width: 76.0px;
-  height: 29.0px;
-  -webkit-transform: rotate(0.0deg);
-  -moz-transform: rotate(0.0deg);
-  transform: rotate(0.0deg);
-  cursor: pointer;
-}
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_10 {
   position: absolute;
   width: 99.0px;
@@ -3385,6 +3366,7 @@
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
+  cursor: pointer;
   border-left-width: 0px;
   border-bottom-width: 0px;
   border-right-width: 0px;
@@ -3400,11 +3382,11 @@
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_10 .valign {
   vertical-align: top;
-  text-align: left;
+  text-align: center;
 }
 #s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Paragraph_10 span {
   color: #000000;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   font-family: 'Arial',Arial;
   font-size: 12.0pt;
@@ -3418,15 +3400,6 @@
   font-size: 12.0pt;
   font-style: normal;
   font-weight: 400;
-}
-#s-fbcf8253-397b-451f-8f68-10399d20a8dd #s-Hotspot_3 {
-  position: absolute;
-  width: 80.0px;
-  height: 41.0px;
-  -webkit-transform: rotate(0.0deg);
-  -moz-transform: rotate(0.0deg);
-  transform: rotate(0.0deg);
-  cursor: pointer;
 }
 .devMobile #jim-container .ui-page {
   overflow-x: hidden;

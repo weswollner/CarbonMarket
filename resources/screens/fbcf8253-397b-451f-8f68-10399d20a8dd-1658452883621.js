@@ -28,7 +28,7 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Hotspot_2")) {
+    } else if(jFirer.is("#s-Paragraph_7")) {
       cases = [
         {
           "blocks": [
@@ -51,7 +51,30 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Hotspot_3")) {
+    } else if(jFirer.is("#s-Paragraph_8")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/fbcf8253-397b-451f-8f68-10399d20a8dd"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Paragraph_10")) {
       cases = [
         {
           "blocks": [

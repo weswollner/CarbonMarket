@@ -11,9 +11,9 @@
 
 			widgets.rootWidgetMap[["s-Path_22", "79ccac5b-359d-4236-8c8e-6f945bd45a2a"]] = ["Search", "s-Group_46"]; 
 
-	widgets.descriptionMap[["s-Button_3", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ""; 
+	widgets.descriptionMap[["s-Button_1", "79ccac5b-359d-4236-8c8e-6f945bd45a2a"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Button_3", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ["Button", "s-Button_3"]; 
+			widgets.rootWidgetMap[["s-Button_1", "79ccac5b-359d-4236-8c8e-6f945bd45a2a"]] = ["Button", "s-Button_1"]; 
 
 	widgets.descriptionMap[["s-Paragraph_15", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ""; 
 
@@ -122,6 +122,10 @@
 	widgets.descriptionMap[["s-Path_7", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_7", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ["Close", "s-Path_7"]; 
+
+	widgets.descriptionMap[["s-Button_1", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_1", "30032e99-4b25-47c3-b0b8-c3a55f03701b"]] = ["Button", "s-Button_1"]; 
 
 	widgets.descriptionMap[["s-Paragraph_25", "fbcf8253-397b-451f-8f68-10399d20a8dd"]] = ""; 
 
@@ -358,10 +362,6 @@
 	widgets.descriptionMap[["s-Button_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Button_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Button", "s-Button_1"]; 
-
-	widgets.descriptionMap[["s-Button_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Button_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Button", "s-Button_2"]; 
 
 	widgets.descriptionMap[["s-Paragraph_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
 

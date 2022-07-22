@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1658351994259.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1658452883621.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Home" width="1280" height="803">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1658351994259.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1658452883621.css" />\
       <div class="freeLayout">\
       <div id="s-Image_46" class="image firer ie-background commentable non-processed" customid="6bb62291287e70be56d883aa05dcd203"   datasizewidth="1280.0px" datasizeheight="960.0px" dataX="0.0" dataY="2680.0"   alt="image">\
         <div class="borderLayer">\
@@ -1156,7 +1156,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Button_1" class="button multiline manualfit firer commentable non-processed" customid="Button 2"   datasizewidth="160.0px" datasizeheight="42.0px" dataX="285.0" dataY="481.0" >\
+        <div id="s-Button_1" class="button multiline manualfit firer commentable non-processed" customid="Button 2"   datasizewidth="160.0px" datasizeheight="42.0px" dataX="110.0" dataY="472.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1165,13 +1165,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Button_1_0">Give Offset</span>\
+                  <span id="rtr-s-Button_1_0">Learn</span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="111.0px" datasizeheight="25.0px" dataX="614.0" dataY="43.5" >\
+        <div id="s-Paragraph_1" class="richtext manualfit firer click ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="111.0px" datasizeheight="25.0px" dataX="614.0" dataY="43.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1180,7 +1180,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_1_0">How to Offset</span>\
+                  <span id="rtr-s-Paragraph_1_0">Projects</span>\
                 </div>\
               </div>\
             </div>\
@@ -1204,22 +1204,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Button_2" class="button multiline manualfit firer commentable non-processed" customid="Button 1"   datasizewidth="160.0px" datasizeheight="42.0px" dataX="109.0" dataY="481.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_2_0">Find Projects</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 2"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="734.5" dataY="44.5" >\
+        <div id="s-Paragraph_2" class="richtext manualfit firer click ie-background commentable non-processed" customid="Menu_Option 2"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="726.0" dataY="44.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1252,7 +1237,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_3" class="richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="452.6px" datasizeheight="64.0px" dataX="109.0" dataY="376.0" >\
+        <div id="s-Paragraph_3" class="richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="452.6px" datasizeheight="74.0px" dataX="109.0" dataY="376.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1261,13 +1246,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_3_0">We do things for the environment...</span>\
+                  <span id="rtr-s-Paragraph_3_0">Find premium verified carbon credits that are backed by blockchain </span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_4" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="843.0" dataY="44.5" >\
+        <div id="s-Paragraph_28" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="826.0" dataY="44.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1276,7 +1261,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_4_0">Suppliers</span>\
+                  <span id="rtr-s-Paragraph_28_0">Suppliers</span>\
                 </div>\
               </div>\
             </div>\
@@ -1297,7 +1282,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Button_3" class="button multiline manualfit firer commentable non-processed" customid="Menu_Button"   datasizewidth="99.0px" datasizeheight="42.0px" dataX="1017.0" dataY="36.6" >\
+        <div id="s-Button_3" class="button multiline manualfit firer commentable non-processed" customid="Menu_Button"   datasizewidth="99.0px" datasizeheight="42.0px" dataX="1075.0" dataY="34.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1327,22 +1312,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_28" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="843.0" dataY="44.5" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_28_0">Suppliers</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_29" class="richtext manualfit firer ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="926.0" dataY="44.0" >\
+        <div id="s-Paragraph_29" class="richtext manualfit firer click ie-background commentable non-processed" customid="Menu_Option 1"   datasizewidth="99.0px" datasizeheight="23.0px" dataX="926.0" dataY="44.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1399,7 +1369,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         	                      <div class="paddingLayer">\
         	                        <div class="content">\
         	                          <div class="valign">\
-        	                            <span id="rtr-s-Paragraph_21_0">Breath better. When you purchase and spend your credit, you are cancelling some of the carbon you produced. This is called offsetting.</span>\
+        	                            <span id="rtr-s-Paragraph_21_0">Breath better. When you purchase and spend your credit, you are canceling some of the carbon produced. This is called offsetting.</span>\
         	                          </div>\
         	                        </div>\
         	                      </div>\
@@ -1429,7 +1399,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         	                      <div class="paddingLayer">\
         	                        <div class="content">\
         	                          <div class="valign">\
-        	                            <span id="rtr-s-Paragraph_14_0">We can connect you to projects that remove carbon from our environment. You can contribute by purchasing credtis.<br /><br /></span>\
+        	                            <span id="rtr-s-Paragraph_14_0">We can connect you to projects that remove carbon from our environment. You can contribute by purchasing credits.<br /><br /></span>\
         	                          </div>\
         	                        </div>\
         	                      </div>\
@@ -1459,7 +1429,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         	                      <div class="paddingLayer">\
         	                        <div class="content">\
         	                          <div class="valign">\
-        	                            <span id="rtr-s-Paragraph_13_0">Living produces carbon emissions that contribute negativly to the envoronment.</span>\
+        	                            <span id="rtr-s-Paragraph_13_0">Living produces carbon emissions that contribute negatively to the environment.</span>\
         	                          </div>\
         	                        </div>\
         	                      </div>\
@@ -2283,7 +2253,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                  <div id="s-Paragraph_8" class="richtext manualfit firer commentable non-processed" customid="Tittle"   datasizewidth="240.0px" datasizeheight="120.0px" dataX="100.0" dataY="160.0" >\
+                  <div id="s-Paragraph_8" class="richtext manualfit firer commentable non-processed" customid="Tittle"   datasizewidth="240.0px" datasizeheight="118.0px" dataX="100.0" dataY="160.0" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -2292,7 +2262,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_8_0">Suppliers create projects to caputure carbon such as windfarms or efficient <br />cookstoves</span>\
+                            <span id="rtr-s-Paragraph_8_0">Suppliers create projects to capture carbon such as wind farms or efficient <br />cookstoves</span>\
                           </div>\
                         </div>\
                       </div>\
@@ -2475,7 +2445,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_16_0">Suppliers are compensated for their work. Purchacer has credit commited to ledger</span>\
+                            <span id="rtr-s-Paragraph_16_0">Suppliers are compensated for their work. Purchaser has credit committed to the blockchain.</span>\
                           </div>\
                         </div>\
                       </div>\
@@ -2535,9 +2505,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Hotspot_1" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 1"   datasizewidth="111.0px" datasizeheight="23.0px" dataX="606.0" dataY="41.0"  >\
-        <div class="clickableSpot"></div>\
-      </div>\
 \
       <div id="s-Group_15" class="group firer ie-background commentable non-processed" customid="Group 15" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_18" class="rectangle manualfit firer commentable non-processed" customid="Container"   datasizewidth="1280.0px" datasizeheight="780.0px" datasizewidthpx="1280.0000000000014" datasizeheightpx="779.9999999999986" dataX="0.0" dataY="3680.0" >\
@@ -2570,7 +2537,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_46" class="richtext manualfit firer ie-background commentable non-processed" customid="Short description"   datasizewidth="820.6px" datasizeheight="105.0px" dataX="220.7" dataY="3839.0" >\
+        <div id="s-Paragraph_46" class="richtext manualfit firer ie-background commentable non-processed" customid="Short description"   datasizewidth="820.6px" datasizeheight="112.0px" dataX="220.7" dataY="3839.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -2579,13 +2546,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_46_0">We know that carbon credits are complicated and the process of canceliling can be confusing. Here you will find answers to the most</span><span id="rtr-s-Paragraph_46_1"> frequently asked questions</span><span id="rtr-s-Paragraph_46_2">.</span>\
+                  <span id="rtr-s-Paragraph_46_0">We know that carbon credits are complicated and the process of canceling can be confusing. Here you will find answers to the most frequently asked questions.<br /><br /><br /></span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_45" class="richtext manualfit firer ie-background commentable non-processed" customid="Tittle h2"   datasizewidth="536.8px" datasizeheight="63.0px" dataX="360.0" dataY="3740.0" >\
+        <div id="s-Paragraph_45" class="richtext manualfit firer ie-background commentable non-processed" customid="Tittle h2"   datasizewidth="659.8px" datasizeheight="114.0px" dataX="310.1" dataY="3740.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -2594,7 +2561,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_45_0">Frequent questions</span>\
+                  <span id="rtr-s-Paragraph_45_0">Learn about carbon credits</span>\
                 </div>\
               </div>\
             </div>\
@@ -3004,16 +2971,10 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Hotspot_3" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 3"   datasizewidth="72.0px" datasizeheight="22.0px" dataX="732.0" dataY="44.0"  >\
-        <div class="clickableSpot"></div>\
-      </div>\
-      <div id="s-Hotspot_2" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 2"   datasizewidth="168.0px" datasizeheight="55.0px" dataX="106.0" dataY="473.0"  >\
-        <div class="clickableSpot"></div>\
-      </div>\
       <div id="s-Hotspot_4" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="158.0px" datasizeheight="57.0px" dataX="600.0" dataY="2207.0"  >\
         <div class="clickableSpot"></div>\
       </div>\
-      <div id="s-Hotspot_5" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 5"   datasizewidth="71.0px" datasizeheight="22.0px" dataX="922.0" dataY="41.0"  >\
+      <div id="s-Hotspot_6" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 6"   datasizewidth="168.0px" datasizeheight="54.0px" dataX="109.0" dataY="465.0"  >\
         <div class="clickableSpot"></div>\
       </div>\
       </div>\

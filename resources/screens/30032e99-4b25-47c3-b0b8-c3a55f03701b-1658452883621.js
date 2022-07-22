@@ -1,5 +1,5 @@
 jQuery("#simulation")
-  .on("click", ".s-d12245cc-1680-458d-89dd-4f0d7fb22724 .click", function(event, data) {
+  .on("click", ".s-30032e99-4b25-47c3-b0b8-c3a55f03701b .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;
     if(data === undefined) { data = event; }
@@ -12,10 +12,9 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimScrollTo",
+                  "action": "jimNavigation",
                   "parameter": {
-                    "target": [ "#s-Dynamic_Panel_2" ],
-                    "axis": "scrollxy"
+                    "target": "screens/d12245cc-1680-458d-89dd-4f0d7fb22724"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -29,7 +28,30 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Hotspot_3")) {
+    } else if(jFirer.is("#s-Paragraph_1")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/30032e99-4b25-47c3-b0b8-c3a55f03701b"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Paragraph_2")) {
       cases = [
         {
           "blocks": [
@@ -52,53 +74,7 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Hotspot_2")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimNavigation",
-                  "parameter": {
-                    "target": "screens/30032e99-4b25-47c3-b0b8-c3a55f03701b"
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Hotspot_4")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimNavigation",
-                  "parameter": {
-                    "target": "screens/30032e99-4b25-47c3-b0b8-c3a55f03701b"
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Hotspot_5")) {
+    } else if(jFirer.is("#s-Paragraph_11")) {
       cases = [
         {
           "blocks": [
