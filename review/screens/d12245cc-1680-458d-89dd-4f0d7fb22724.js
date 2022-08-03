@@ -1,4 +1,4 @@
-var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1280" deviceHeight="803">\
+var content = '<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1280" deviceHeight="803">\
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
@@ -1815,7 +1815,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_31_0">2.5 MW Rice husk based cogeneration plant<br /><br /></span>\
+                            <span id="rtr-s-Paragraph_31_0">2.5 MW Rice Husk Hased Cogeneration Plant<br /><br /></span>\
                           </div>\
                         </div>\
                       </div>\
@@ -2015,7 +2015,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_40_0">2.5 MW Rice husk based cogeneration plant<br /><br /></span>\
+                            <span id="rtr-s-Paragraph_40_0">2.5 MW Rice Husk Based Cogeneration Plant<br /><br /></span>\
                           </div>\
                         </div>\
                       </div>\
@@ -2262,7 +2262,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_8_0">Suppliers create projects to capture carbon such as wind farms or efficient <br />cookstoves</span>\
+                            <span id="rtr-s-Paragraph_8_0">Suppliers create projects to avoid, reduce, or capture carbon</span>\
                           </div>\
                         </div>\
                       </div>\
@@ -2314,7 +2314,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_10_0">Once the project is verified and measured the carbon is placed on CarbonMarket to be purchased</span>\
+                            <span id="rtr-s-Paragraph_10_0">Once the project is verified and measured the carbon credits are placed on CarbonMarket for purchase</span>\
                           </div>\
                         </div>\
                       </div>\
@@ -2445,7 +2445,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_16_0">Suppliers are compensated for their work. Purchaser has credit committed to the blockchain.</span>\
+                            <span id="rtr-s-Paragraph_16_0">Supplier is compensated for its work. Purchaser has credit committed to the blockchain.</span>\
                           </div>\
                         </div>\
                       </div>\

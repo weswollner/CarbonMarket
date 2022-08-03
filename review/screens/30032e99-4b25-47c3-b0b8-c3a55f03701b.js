@@ -1,4 +1,4 @@
-var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1280" deviceHeight="803">\
+var content = '<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1280" deviceHeight="803">\
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
@@ -311,7 +311,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_31_0">2.5 MW Rice husk based cogeneration plant<br /><br /></span>\
+                            <span id="rtr-s-Paragraph_31_0">2.5 MW Rice Husk Based Cogeneration Plant<br /><br /></span>\
                           </div>\
                         </div>\
                       </div>\
@@ -526,7 +526,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_44_0">CookClean manufactures efficient cookstoves to displace the resources wasteful and unhealthy traditional stoves which kill 13,400 people and subject 21 million to Household Air Pollution yearly in Ghana.<br /><br /></span>\
+                            <span id="rtr-s-Paragraph_44_0">CookClean manufactures efficient cookstoves to displace the resources wasted from unhealthy traditional stoves which kill 13,400 people and subject 21 million to Household Air Pollution yearly in Ghana.<br /><br /></span>\
                           </div>\
                         </div>\
                       </div>\
