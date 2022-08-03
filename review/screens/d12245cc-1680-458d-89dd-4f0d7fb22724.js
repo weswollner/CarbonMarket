@@ -1246,7 +1246,7 @@ var content = '<div class="ui-page" deviceName="web" deviceType="desktop" device
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_3_0">Find premium verified carbon credits that are backed by blockchain </span>\
+                  <span id="rtr-s-Paragraph_3_0">Find premium verified carbon credits backed by IBM HyperLedger Blockchain </span>\
                 </div>\
               </div>\
             </div>\
@@ -2591,7 +2591,7 @@ var content = '<div class="ui-page" deviceName="web" deviceType="desktop" device
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Rectangle_21_0">Question 1?</span>\
+                  <span id="rtr-s-Rectangle_21_0">What are carbon credits?</span>\
                 </div>\
               </div>\
             </div>\
@@ -2633,7 +2633,7 @@ var content = '<div class="ui-page" deviceName="web" deviceType="desktop" device
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Rectangle_25_0">Question 1?</span>\
+                  <span id="rtr-s-Rectangle_25_0">How does carbon offsetting help the planet?</span>\
                 </div>\
               </div>\
             </div>\
@@ -2666,7 +2666,7 @@ var content = '<div class="ui-page" deviceName="web" deviceType="desktop" device
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Rectangle_22_0">Question 1?</span>\
+                  <span id="rtr-s-Rectangle_22_0">Are carbon credits tax deductable?</span>\
                 </div>\
               </div>\
             </div>\
@@ -2699,7 +2699,7 @@ var content = '<div class="ui-page" deviceName="web" deviceType="desktop" device
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Rectangle_20_0">Question 1?</span>\
+                  <span id="rtr-s-Rectangle_20_0">How much do carbon credits cost?</span>\
                 </div>\
               </div>\
             </div>\
