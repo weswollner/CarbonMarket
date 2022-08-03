@@ -1815,7 +1815,7 @@ var content = '<div class="ui-page" deviceName="web" deviceType="desktop" device
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_31_0">2.5 MW Rice Husk Hased Cogeneration Plant<br /><br /></span>\
+                            <span id="rtr-s-Paragraph_31_0">2.5 MW Rice Husk Based Cogeneration Plant<br /><br /></span>\
                           </div>\
                         </div>\
                       </div>\
